@@ -55,3 +55,6 @@ clean:
 
 .PHONY: c
 c: clean
+
+hello:
+	python3 hello_world.py
