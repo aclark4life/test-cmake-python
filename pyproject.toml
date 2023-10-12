@@ -1,0 +1,7 @@
+[project]
+name = "test-cmake-python"
+version = "0.0.1"
+
+[build-system]
+requires = ["scikit-build-core"]
+build-backend = "scikit_build_core.build"
