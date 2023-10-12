@@ -1,7 +1,6 @@
 [project]
 name = "test-cmake-python"
 version = "0.0.1"
-long_description = "Test CMake Python"
 
 [build-system]
 requires = ["scikit-build-core"]
